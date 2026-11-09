@@ -1,5 +1,5 @@
 # Demo
-My first repository.\n
+My first repository.
 Hi, I am Fahmida Hossain Fahmi.
 
 
