@@ -1,3 +1,5 @@
 # Demo
-My fist repository
-hi
+My first repository.\n
+Hi, I am Fahmida Hossain Fahmi.
+
+
